@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url("https://images.alphacoders.com/123/1232062.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+}
+img {
+  display: inline-block;
+  height: 350px;
+  width: 250px;
+  border-radius: 1rem;
+  margin-top: 0.5rem;
+}
+h1 {
+  font-size: 40px;
+}
+
+button {
+  border-radius: 2rem;
+  border: solid white 2px;
+  font-size: 17px;
+  width: 125px;
+  margin: 0.25rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  font-weight: bold;
+  color: white;
+  background-color: transparent;
+}
+ul {
+  padding-inline-start: 0px;
+  list-style: none;
+}
+li {
+  display: block;
+  border: white 2px solid;
+  margin: auto;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  text-align: center;
+  width: 250px;
+  font-weight: bold;
+}
+#Name {
+  font-size: 20px;
+}
+#Rating {
+  font-size: 18px;
+}
